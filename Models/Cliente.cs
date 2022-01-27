@@ -1,0 +1,1 @@
+﻿public record Cliente(Guid Id, string Nome, string Cpf, string Telefone, string Endereco, string Complemento, string Cep, string Cidade, string Uf);
